@@ -1,9 +1,9 @@
 ## Ola! Me Sou Francisco Gabriel 👋
 
 Here are some ideas to get you started:
-
-- 🔭 P&D pela FUNCAP
-- 🌱 Desenvolvo para embarcados voltado a Internet of things (IoT)
+- 💼 Empresa de Tecnologia da Informação do Ceará - Etice
+- 🔭 P&D
+- 🌱 Desenvolvo para embarcados IoT (Internet of things)
 - 🎓 Computer Science
   
 ##
