@@ -1,4 +1,4 @@
-## Ola! Me Sou Francisco Gabriel 👋
+## Ola! Sou Francisco Gabriel 👋
 
 Here are some ideas to get you started:
 - 💼 Empresa de Tecnologia da Informação do Ceará - Etice
