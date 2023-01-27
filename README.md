@@ -1,12 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
 
-## Hello! My Name is Fco Gabriel 👋
-
-- 💼 Empresa de Tecnologia da Informação do Ceará - Etice
-- 🔭 P&D
-- 🌱 Desenvolvo para embarcados IoT (Internet of things)
-- 🎓 Computer Science
+## Ola! Me Chamo Fco Gabriel 👋
   
+  <div style="display: inline_block"><br>
+  
+  Atualmente sou Desenvolvedor web PHP na Empresa de tecnologia do estado do Ceará - ETICE, graduando em Ciência da Computação pela Universidade Estadual do Ceará (UECE), possuindo algum conhecimento com desenvolvimento para embarcados IoT (Internet of things), desenvolvimento web .NET, C++, C#, Python, Django. Sendo estes adqueridos projetos pessoais, pesquisas P&D, dentre outos.
+ 
+</div>
+
 ##
 
 ![Snake animation](https://github.com/GabrielAvelino-SA/GabrielAvelino-SA/blob/output/github-contribution-grid-snake.svg)
