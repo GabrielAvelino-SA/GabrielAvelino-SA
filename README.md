@@ -10,10 +10,6 @@
 
 ##
 
-![Snake animation](https://github.com/GabrielAvelino-SA/GabrielAvelino-SA/blob/output/github-contribution-grid-snake.svg)
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielAvelino-SA&bg_color=22272e&color=2e8b57&line=2b6e48&point=34a264&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style = "display: inline-block;">
