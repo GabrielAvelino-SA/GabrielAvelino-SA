@@ -9,16 +9,14 @@
 </div>
 
 ##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielAvelino-SA&bg_color=22272e&color=2e8b57&line=2b6e48&point=34a264&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center" style = "display: inline-block;">
+<!-- <div align="center" style = "display: inline-block;">
     
   | Main Skills | Studying in this moment | Other tools preferences |
   | ----------- | ----------- | ----------- |
   |<div align="center"> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </div> | <div align="center"> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </div> | <div align="center"> <img align="center" heigth=40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </div> |
           
 </div>
+ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielavelino2020/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/gabrielavelino.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
